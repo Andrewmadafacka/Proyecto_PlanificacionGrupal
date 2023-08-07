@@ -1,2 +1,6 @@
-# Proyecto_PlanificacionGrupal
-Aplicacion web para monitorizacion
+#Saludos Ingeniera este es nuestro proyecto 
+#Integrantes:
+#Flores Arévalo Andrés
+#
+#
+#
